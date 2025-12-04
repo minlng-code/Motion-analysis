@@ -60,6 +60,7 @@ If future versions include clinical decision-making, risk class may increase to 
 
 6. Risk Management Summary (Annex I + ISO 14971)
 6.1 Major Identified Risks
+
 | Risk                              | Cause                         | Harm                        | Control Measures                                       |
 | --------------------------------- | ----------------------------- | --------------------------- | ------------------------------------------------------ |
 | Incorrect movement interpretation | Poor camera view / occlusion  | Wrong exercise performance  | Real-time warnings (“Adjust camera”, “Lost tracking”)  |
